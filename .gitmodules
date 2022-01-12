@@ -1,3 +1,6 @@
 [submodule "sub-module-public-"]
 	path = sub-module-public-
 	url = https://github.com/GuruneLee/sub-module-public-
+[submodule "sub-module-private"]
+	path = sub-module-private
+	url = https://github.com/GuruneLee/sub-module-private
