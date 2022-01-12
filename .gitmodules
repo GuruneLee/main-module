@@ -1,0 +1,3 @@
+[submodule "sub-module-public-"]
+	path = sub-module-public-
+	url = https://github.com/GuruneLee/sub-module-public-
